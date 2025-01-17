@@ -14,11 +14,11 @@
     </padding>
 
 
-    <Label text="Enter first argument:" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+    <Label text="1st argument:" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
     <TextField fx:id="arg1TextField" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
 
 
-    <Label text="Enter second argument:" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+    <Label text="2nd argument:" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
     <TextField fx:id="arg2TextField" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
 
 
